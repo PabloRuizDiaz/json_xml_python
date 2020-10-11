@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<data>
+    <nombre>Persona1</nombre>
+    <apellido>abc</apellido>
+    <DNI>123</DNI>
+    <prenda name="zapatilla">
+        <cantidad>2</cantidad>
+     </prenda>
+     <prenda name="gorra">
+        <cantidad>4</cantidad>
+    </prenda>
+    <nombre>Persona2</nombre>
+    <apellido>def</apellido>
+    <DNI>456</DNI>
+    <prenda name="zapatilla">
+        <cantidad>6</cantidad>
+    </prenda>
+    <prenda name="medias">
+        <cantidad>8</cantidad>
+     </prenda>
+    <nombre>Persona3</nombre>
+    <apellido>ghi</apellido>
+    <DNI>789</DNI>
+    <prenda name="bufanda">
+        <cantidad>2</cantidad>
+     </prenda>
+     <prenda name="medias">
+        <cantidad>1</cantidad>
+     </prenda>
+     <prenda name="campera">
+        <cantidad>2</cantidad>
+     </prenda>
+    <nombre>Persona4</nombre>
+    <apellido>klm</apellido>
+    <DNI>159</DNI>
+    <prenda name="medias">
+        <cantidad>15</cantidad>
+     </prenda>
+     <prenda name="gorra">
+        <cantidad>2</cantidad>
+     </prenda>
+     </data>

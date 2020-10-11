@@ -1,0 +1,66 @@
+[
+    {
+        "nombre": "Persona1",
+        "apellido": "abc",
+        "DNI": "123",
+        "prenda": [
+            {
+                "prenda": "zapatilla",
+                "cantidad": "2"
+            },
+            {
+                "prenda": "gorra",
+                "cantidad": "4"
+            }
+        ]
+    },
+    {
+        "nombre": "Persona2",
+        "apellido": "def",
+        "DNI": "456",
+        "prenda": [
+            {
+                "prenda": "zapatilla",
+                "cantidad": "6"
+            },
+            {
+                "prenda": "medias",
+                "cantidad": "8"
+            }
+        ]
+    },
+    {
+        "nombre": "Persona3",
+        "apellido": "ghi",
+        "DNI": "789",
+        "prenda": [
+            {
+                "prenda": "bufanda",
+                "cantidad": "2"
+            },
+            {
+                "prenda": "medias",
+                "cantidad": "1"
+            },
+            {
+                "prenda": "campera",
+                "cantidad": "2"
+            }
+        ]
+    },
+    {
+        "nombre": "Persona4",
+        "apellido": "klm",
+        "DNI": "159",
+        "prenda": [
+            {
+                "prenda": "medias",
+                "cantidad": "15"
+            },
+            {
+                "prenda": "gorra",
+                "cantidad": "2"
+            }
+        ]
+    }
+]
